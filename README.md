@@ -1,2 +1,28 @@
-# 32af9e9e-sports-fitness-standard-operat
-spending hours building a system before you can actually use it costs you real money. This Notion template pays for itself in one use.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Sports Fitness Standard Operating Procedu
+# Sports Fitness Standard Operating Procedures Library Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFa4gzeTt1g0bRS1ZicZK2X)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa4gzeTt1g0bRS1ZicZK2X)
+
